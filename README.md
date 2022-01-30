@@ -19,4 +19,5 @@ npm run web
 - Lo stile non è molto curato.
 - L'upload del file non funzione sul simulatore ios ma funziona su dispositivi fisici android.
 - L'invio del codice di verifica non è reale perché richiede l'utilizzo di qualche servizio di invio email.
+- Il codice è stato scritto in un unico componente per questioni di tempo, ma con un po' di pazienzadi puà snellire e riordinare
 
