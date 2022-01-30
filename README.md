@@ -16,7 +16,7 @@ npm run web
 ```
 
 ### Problemi
-Lo stile non è molto curato.
-L'upload del file non funzione sul simulatore ios ma funziona su dispositivi fisici android.
-L'invio del codice di verifica non è reale perché richiede l'utilizzo di qualche servizio di invio email.
+- Lo stile non è molto curato.
+- L'upload del file non funzione sul simulatore ios ma funziona su dispositivi fisici android.
+- L'invio del codice di verifica non è reale perché richiede l'utilizzo di qualche servizio di invio email.
 
